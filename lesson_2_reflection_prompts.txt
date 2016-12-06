@@ -7,14 +7,19 @@ It's grouping some files to commit them after. It hepls to take all the files yo
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+I can always check git status and git diff.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When you want to add a new feature and you don't know how it will work. You can merge your changes and get a new program and you can grow your mastery branch.
 
 How do the diagrams help you visualize the branch structure?
+I can easily see which commit is unreacheable and where I should make a branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result is moving master branch to marked as merged branch.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+With manual merging you can add exactly what you want and resolve conflicts.
